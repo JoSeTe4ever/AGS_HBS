@@ -8617,7 +8617,7 @@ See KeyboardMovement.txt for details.
                 <ScriptName>aPiano</ScriptName>
                 <SourceFileName xml:space="preserve">C:\disco duro negro\AGS\recursos\musica\piano.mp3</SourceFileName>
                 <Type>2</Type>
-                <FileLastModifiedDate>2018-05-26 11:17:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2023-08-19 08:51:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -8630,7 +8630,7 @@ See KeyboardMovement.txt for details.
                 <ScriptName>aVikingo</ScriptName>
                 <SourceFileName xml:space="preserve">C:\disco duro negro\AGS\recursos\musica\vikingo.mp3</SourceFileName>
                 <Type>2</Type>
-                <FileLastModifiedDate>2018-05-26 11:29:13Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2023-08-19 08:51:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -8643,7 +8643,7 @@ See KeyboardMovement.txt for details.
                 <ScriptName>aBladeRunner</ScriptName>
                 <SourceFileName xml:space="preserve">C:\disco duro negro\AGS\recursos\musica\bladeRunner.mp3</SourceFileName>
                 <Type>2</Type>
-                <FileLastModifiedDate>2018-05-26 11:32:33Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2023-08-19 08:51:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -8656,7 +8656,7 @@ See KeyboardMovement.txt for details.
                 <ScriptName>aHappyBirthday</ScriptName>
                 <SourceFileName xml:space="preserve">C:\disco duro negro\AGS\recursos\musica\HappyBirthday.mp3</SourceFileName>
                 <Type>2</Type>
-                <FileLastModifiedDate>2018-05-26 11:43:51Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2023-08-19 08:51:34Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8807,8 +8807,12 @@ See KeyboardMovement.txt for details.
   <Component Name="Rooms" />
   <Component Name="Translations" />
   <Component Name="MusicAndSpeech">
-    <SpeechVoxFiles />
-    <PamFiles />
+    <SpeechVoxFiles>
+      <Folder Name="speech" />
+    </SpeechVoxFiles>
+    <PamFiles>
+      <Folder Name="speech" />
+    </PamFiles>
   </Component>
   <Component Name="SourceControl">
     <ProjectUnderControl>False</ProjectUnderControl>

@@ -5,6 +5,6 @@
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
     <LastBuildGameFileName>DataFile=HBS,Windows=HBS,_Debug=HBS,Linux=HBS,Web=HBS,Android=HBS,</LastBuildGameFileName>
-    <RequiresRebuild>True</RequiresRebuild>
+    <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
