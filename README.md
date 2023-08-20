@@ -17,6 +17,8 @@ This is a point and click game, so you can play it with mouse only and space bar
 Sometimes you have to use the keyboard to move the character.
 Press space to next step if somehow the screen doesn't change.
 
+You can set the fullscreen mode with the button on the bottom right corner.
+
 Ah! for exit the game just close the window/tab.
 
 ### Screenshots SPOILER ALERT!
